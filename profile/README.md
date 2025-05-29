@@ -4,6 +4,7 @@
 
 <br> AdCanvas
 ##### URL : 
+##### 시연영상(Youtube) : https://youtu.be/PbaudgglqF4
 </div>
 </br>
 
