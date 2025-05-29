@@ -29,27 +29,28 @@
 ## ✨ Demo
 ### Onboarding
 > AdCanvas의 간략한 설명을 담고 있습니다.
-
+<img align="center" width="1000" alt="Onboarding" src="https://github.com/user-attachments/assets/4dc335f7-b054-41d0-a332-217ab35c1b6e">
 <br><br>
 
 ### Home
 > AI Images와 AI Videos 페이지로 이동할 수 있으며 각각 개별적으로 가능합니다.
-
+<img align="center" width="1000" alt="home" src="https://github.com/user-attachments/assets/88f53bfd-0573-4e2c-a19f-ecc0db16fc6c">
 <br><br>
+
 
 ### AI Images
 > 업로드한 이미지의 배경을 제거해주고, 작성한 프롬프트 내용으로 배경을 생성해줍니다.<br>
 > 또한, 로고 부착과 텍스트 합성 또한 진행하여 이미지를 생성해줍니다.
-
-
+<img align="center" width="1000" alt="aiimages" src="https://github.com/user-attachments/assets/799b1d75-60a0-4e0c-8403-86c47c5163b4">
 <br><br>
+
 
 ### AI Videos
 > Text to Video로 원하는 프롬프트 내용과 옵션들을 선택하여 비디오를 생성해줍니다.<br>
-> Image to Video로 업로드한 이미지에 작성한 이미지의 정보와 프롬프트의 내용으로 비디오를 생성해줍니다.<br>
+> Image to Video로 업로드한 이미지에 작성한 이미지의 정보와 프롬프트의 내용과 옵션들을 선택하여 비디오를 생성해줍니다.<br>
 > 또한, 프롬프트로 작성한 대본과 나레이션의 목소리를 선택하여 비디오를 생성해줍니다.
-
-
+<img align="center" width="1000" alt="aivideos-texttovideo" src="https://github.com/user-attachments/assets/d14a2489-f3be-4799-9c1c-01985cfae95a">
+<img align="center" width="1000" alt="aivideos-imagetovideo" src="https://github.com/user-attachments/assets/d4ab86fe-72d2-4b24-8c81-99c85499a319">
 <br><br>
 
 ## 🏢 System Architechture
