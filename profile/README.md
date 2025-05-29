@@ -1,8 +1,10 @@
 # <p align = center>2025 Capstone Design<p>
 ### <p align = center>2025 Capstone Design Team Chill Guys<p>
 <br> 
+<br>
 
-<br> AdCanvas
+# AdCanvas🎨
+
 ##### URL : 
 ##### 시연영상(Youtube) : https://youtu.be/PbaudgglqF4
 </div>
