@@ -132,7 +132,8 @@
 </br>
 
 ## 🗺️ ERD
-<img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*DKnB550KV5asApbWTLusiQ.png">
+<img src="https://github.com/user-attachments/assets/910af20d-6ca7-4025-ae79-83dbc2110c41">
+
 
 </br>
 </br>
