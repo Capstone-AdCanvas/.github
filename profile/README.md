@@ -5,7 +5,7 @@
 
 # AdCanvas🎨
 
-##### URL : 
+##### URL : https://adcanvas.site (크레딧 관련 문제로 막아둠)
 ##### 시연영상(Youtube) : https://youtu.be/PbaudgglqF4
 </div>
 </br>
