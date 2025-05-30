@@ -56,6 +56,21 @@
 <img align="center" width="1000" alt="aivideos-imagetovideo" src="https://github.com/user-attachments/assets/d4ab86fe-72d2-4b24-8c81-99c85499a319">
 <br><br>
 
+## 🎥 테스트 영상
+
+
+https://github.com/user-attachments/assets/a996d88a-13a5-434f-a59b-685a40b4cc04
+
+
+
+https://github.com/user-attachments/assets/f11e06d5-9cd0-468d-ac09-be2bb484f17b
+
+
+
+https://github.com/user-attachments/assets/d4cdd40d-6efa-4e43-abfc-f8b5aebacdc6
+
+
+
 ## 🏢 System Architechture
 
 ![image](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*9vfiQg-YH7FZUi2XHzcCYw.png)
